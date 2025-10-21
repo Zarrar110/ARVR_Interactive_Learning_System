@@ -1,0 +1,7 @@
+open3d
+pyopengl
+vpython
+numpy
+pandas
+matplotlib
+opencv-python
